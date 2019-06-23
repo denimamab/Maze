@@ -1,6 +1,6 @@
 # Maze
 
-Maze is a mini project developed to generate a maze randomly and be capable to resolve it using A* algorithm and Manhattan or Pythagore heuristics.
+Maze is a mini project developed to generate a maze randomly and be capable to resolve it using A star (A*) algorithm and Manhattan or Pythagore heuristics.
 
 # Getting started
 
